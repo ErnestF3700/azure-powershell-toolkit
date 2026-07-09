@@ -4,8 +4,9 @@
 
 .DESCRIPTION
     Interactive deployment wizard for creating Azure Virtual Machines.
-
-
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    This script doesnt work like New-AzureVM.ps1, this one creates immediatly vm by inputs which are wrote down below in code.
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 .VERSION
     1.0.0
 #>
